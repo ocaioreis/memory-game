@@ -13,9 +13,6 @@ body{
 .cartas:hover{
     transform: scale(1.1);
 }
-/* .cartas:active{
-    transform: rotateY(180deg);
-} */
 .virado{
     transition: 0.5s;
     transform: rotateY(180deg);
